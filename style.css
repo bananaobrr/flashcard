@@ -1,6 +1,11 @@
+
+
+
+
+
+
 body {
-    background-color: rgb(67, 155, 196);
-    font-family: Bai Jamjuree;
+    background: url('bg-desktop.webp');
 }
 
 #container {
