@@ -14,7 +14,7 @@ body {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: rgb(159, 150, 160);
+    background-color: rgb(94, 143, 61);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -27,7 +27,7 @@ body {
 }
 
 .cartao__conteudo h3 {
-    background-color: rgb(74, 105, 69);
+    background-color: rgb(88, 138, 81);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -48,7 +48,7 @@ body {
 
 
 footer {
-    background-color: black;
+    background-color: rgb(54, 201, 78);
     color: white;
     position: fixed;
     bottom: 0;
