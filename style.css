@@ -26,7 +26,7 @@ body {
     height: 100%;
 }
 
-.cartao__conteudo h3 {
+.cartao__conteudo  {
     background-color: rgb(58, 146, 84);
     text-align: left;
     padding: 0.5rem;
