@@ -4,7 +4,7 @@ criaCartao(
     'O Python é uma linguagem de programação'
 )
 
-c
+
 criaCartao(
     'Programação',
     'O que é uma função?',
